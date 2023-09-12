@@ -3,7 +3,7 @@ layout: resume
 title: Resume
 ---
 <br>
-**Collaborative leader**, excellent at analyzing complex data sets, extracting valuable insights, and presenting compelling findings to stakeholders. Well-versed in **designing/optimizing data pipelines, developing data warehouses, and creating analytical systems.**Known for architecting and deploying a data warehouse for [All We Are](https://allweare.org/) solar nonprofit using **Google Cloud Platform.** Currently works in the **SQL** and **Azure** space for an insurance SaaS product and a three-tier financial services application.
+**Collaborative leader**, excellent at analyzing complex data sets, extracting valuable insights, and presenting compelling findings to stakeholders. Well-versed in **designing/optimizing data pipelines, developing data warehouses, and creating analytical systems.** Designed, architected, and deployed a data warehouse for [All We Are](https://allweare.org/) solar nonprofit using **Google Cloud Platform.** Currently works in the **SQL** and **Azure** space for an insurance SaaS product and a three-tier financial services application.
 
 **Certifications**: 
 - [DP-300 Administering Microsoft Azure SQL Solutions](https://learn.microsoft.com/en-us/users/RichardPeterson-2471/credentials/E0638BB336DC3085)
@@ -34,7 +34,7 @@ Conduct thorough investigation/troubleshooting of application, database, and pla
 - Designed and implemented efficient escalation process, significantly reducing bug-to-fix downtime by impressive 44%.
 - **Additional Experience as Industry Support Analyst at SoftPro from 2019 to 2020**
 
-**Database Team Lead, All We Are Non-Profit  (2020 – Present)** [https://allweare.org/](https://allweare.org/)<br>
+**Database Team Lead, All We Are Non-Profit (2020 – Present)** [https://allweare.org/](https://allweare.org/)<br>
 Database Administrator and cloud services for a solar energy non-profit in Uganda. Built database for school performance and solar maintenance and financial reporting.  Conduct quarterly presentations to leadership teams of international non-profit organizations.
 - Developed ETL pipelines using BigQuery, Python Cloud Functions, Pub/Sub, & Cloud Scheduler, enabling same-day reports.
 - Led design and implementation of robust BigQuery Data Warehouse, empowering strategic planning/operations research initiatives.
@@ -44,6 +44,6 @@ Database Administrator and cloud services for a solar energy non-profit in Ugand
 
 ## Education
 - M.A. Public Policy and Administration with Specialization in Data Analytics, **Northwestern University, 2023**
-- B.A. Political science, **North Carolina State University, 2014**
+- B.A. Political Science, **North Carolina State University, 2014**
 
 
