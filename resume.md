@@ -3,9 +3,12 @@ layout: resume
 title: Resume
 ---
 <br>
-Known for architecting and deploying a data warehouse for [All We Are](https://allweare.org/) solar nonprofit using **Google Cloud Platform.** Currently works in the **SQL** and **Azure** space for an insurance SaaS product and a three-tier desktop financial services application. **Collaborative leader**, excellent at analyzing complex data sets, extracting valuable insights, and presenting compelling findings to stakeholders. Well-versed in **designing/optimizing data pipelines, developing data warehouses, and creating analytical systems.**
+**Collaborative leader**, excellent at analyzing complex data sets, extracting valuable insights, and presenting compelling findings to stakeholders. Well-versed in **designing/optimizing data pipelines, developing data warehouses, and creating analytical systems.**Known for architecting and deploying a data warehouse for [All We Are](https://allweare.org/) solar nonprofit using **Google Cloud Platform.** Currently works in the **SQL** and **Azure** space for an insurance SaaS product and a three-tier financial services application.
 
-**Certifications**: [DP-300](https://learn.microsoft.com/en-us/users/RichardPeterson-2471/credentials/E0638BB336DC3085),  [AZ-900](https://www.credly.com/badges/248c8764-0eb7-43e0-8c49-bf5d460ee763?source=linked_in_profile), [GCP Big Data and Machine Learning Fundamentals](https://www.coursera.org/account/accomplishments/verify/6DH4MKKR3VNN)
+**Certifications**: 
+- [DP-300 Administering Microsoft Azure SQL Solutions](https://learn.microsoft.com/en-us/users/RichardPeterson-2471/credentials/E0638BB336DC3085)
+- [AZ-900 Azure Fundamentals](https://www.credly.com/badges/248c8764-0eb7-43e0-8c49-bf5d460ee763?source=linked_in_profile)
+- [GCP Big Data and Machine Learning Fundamentals](https://www.coursera.org/account/accomplishments/verify/6DH4MKKR3VNN)
 
 ## Technical Proficiencies & Writings
 
