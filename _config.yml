@@ -1,8 +1,8 @@
 title: Richard Peterson's Portfolio
-author: Abhinav Saxena
-url: https://www.abhinavsaxena.com/moonwalk # root address of the site
+author: Richard Peterson
+url: https://www.rchardptrsn.gitbhub.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  This is a portfolio, blog, and resume site for Richard Peterson.
+  This is a portfolio and blog site for Richard Peterson.
 
 permalink: /:slug
 
