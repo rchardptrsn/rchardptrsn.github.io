@@ -14,9 +14,9 @@ title: Resume
 
 **SQL**: Advanced queries, query optimization, database tuning, OLTP and OLAP design, migrations, security, High Availability, Disaster Recovery
 
-**Python**: Pandas, PySpark, Scikit-learn, SQLAlchemy, GeoPandas, Streamlit, Folium, Earth Engine
+**Python**: Pandas, PySpark, Scikit-learn, SQLAlchemy, GeoPandas, Streamlit, Flask, Folium, Earth Engine
 
-**DevOps**: Docker, Azure DevOps CI/CD pipelines, GitHub version control, MLFlow MLOps
+**DevOps**: Docker, Azure DevOps CI/CD pipelines, GitHub version control
 
 **Machine Learning**: Exploratory data analysis, descriptive statistics, hypothesis testing, feature engineering, research methods and sampling techniques, principal component analysis, bootstrapping, linear regression, multiple regression, logistic regression, clustering techniques
 
