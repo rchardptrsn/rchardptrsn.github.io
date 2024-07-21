@@ -157,7 +157,12 @@ van Valkengoed, A. M., & Steg, L. (2019). Meta-analyses of factors motivating cl
 
 Figure A1. Average Risk and Readiness of Cities by Region (University of Notre Dame, n.d.)
 
+![Average Risk and Readiness of Cities by Region](/assets/images/climate-change-cities/average%20risk%20and%20readiness%20of%20cities%20by%20region.png)
+
 Figure A2. Boxplot of Overall Risk grouped by Region (University of Notre Dame, n.d.)
+
+![Overall Risk grouped by Region](/assets/images/climate-change-cities/overall%20risk%20region.png)
 
 Figure A3. Boxplot of Overall Readiness grouped by Region (University of Notre Dame, n.d.)
 
+![Overall Readiness grouped by Region](/assets/images/climate-change-cities/overall%20readiness%20region.png)
